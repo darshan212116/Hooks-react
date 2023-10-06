@@ -1,0 +1,16 @@
+.Box{
+    height:400px ;
+    width: 400px;
+    border: 2px solid;
+    border-color: black;
+    border-radius: 5px;
+    
+    background-color:  #8ca0ff;
+    justify-content: space-between;
+    row-gap: 5px;
+    column-gap: 5px;
+}
+.Image{
+    object-fit: cover;
+    justify-content: flex-start;
+}
